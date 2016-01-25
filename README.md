@@ -2,10 +2,7 @@
 
 This is a Clojure [component](https://github.com/stuartsierra/component/) that performs automatic Sass->CSS compilation using [sass4clj](https://github.com/Deraen/sass4clj/) whenever you modify your Sass files. It is designed to be used with [figwheel](https://github.com/bhauman/lein-figwheel/)'s live CSS reloading feature.
 
-It is available in Clojars:
-```clojure
-[sass4clj-component "0.1.0"]
-```
+[![Clojars Project](https://img.shields.io/clojars/v/sass4clj-component.svg)](https://clojars.org/sass4clj-component)
 
 ## Usage
 
